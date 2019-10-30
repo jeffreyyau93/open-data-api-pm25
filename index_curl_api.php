@@ -24,7 +24,6 @@ $result=curl_exec($curl);
 //中斷結束curl
 curl_close($curl);
 
-
 // $php_ary=json_decode($result);
 // print_r($php_ary);
 ?>
